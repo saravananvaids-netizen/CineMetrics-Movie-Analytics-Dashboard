@@ -1,0 +1,6 @@
+{
+  "name": "CineMetrics – Movie Analytics Dashboard",
+  "description": "Comprehensive movie industry analytics platform featuring box office intelligence, genre trends, ML revenue prediction, TMDB integration, and dataset auditor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
